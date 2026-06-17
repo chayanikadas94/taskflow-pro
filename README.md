@@ -169,6 +169,5 @@ All files                   |  92.6 |   89.1 |  94.7 |  92.6
 
 Built by Chayanika Das as a portfolio project demonstrating full-stack development capabilities for a software developer role.
 
-- 📧 chayanikadas94@gmail.com
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~0108f1fb82727b3962)
 - 🐙 [GitHub](https://github.com/chayanikadas94)
